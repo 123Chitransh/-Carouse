@@ -1,9 +1,9 @@
 *{
     box-sizing: border-box;
-    background-color:#FFCBCB;
+/*     background-color:#FFCBCB; */
 }
 .slideshow{
-    background-color:#FFCBCB;
+/*     background-color:#FFCBCB; */
     max-width: 1000px;
     position: relative;
     margin: auto;
